@@ -1,0 +1,46 @@
+body {
+    background: linear-gradient(to bottom, #2bb2e3 0%, #ff99cc 70%);
+}
+header{
+    background-color: rgb(141, 132, 123);
+    color: aliceblue;
+    padding: 20px;
+    border-radius: 100%;
+}
+li{
+    display: inline;
+    padding: 30px;
+}
+ul li a{
+    text-decoration: none;
+    color: burlywood;
+}
+img{
+    height: 230px;
+    width: 230px;
+    border-radius: 80%;
+}
+#PortFolio{
+    
+    padding: 10px;
+    border-radius: 30%;
+
+footer{
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+}
+#about{
+
+background-color: rgb(216, 155, 81);
+border-radius: 30%;
+
+
+
+}
+#skill{
+
+background-color: rgb(101, 93, 82);
+border-radius: 30%;
+
+}
